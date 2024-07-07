@@ -1,7 +1,7 @@
 ## Overview
 This project aims to develop a machine learning-based system to detect fake news articles. The system analyzes various features of news articles and uses a classification model to predict whether an article is fake or genuine.
 
-##Table of Contents
+## Table of Contents
 Overview
 Features
 Installation
@@ -14,7 +14,8 @@ Preprocessing: Implements text preprocessing techniques such as tokenization, st
 Model Training: Trains a machine learning model (e.g., Logistic Regression, Random Forest, etc.) on the processed data.
 Evaluation: Evaluates the model's performance using metrics like accuracy, precision, recall, and F1-score.
 Deployment: Potential deployment strategies, such as web application integration or API services.
-##Installation
+## Installation
+
 Clone the repository:
 
 bash
